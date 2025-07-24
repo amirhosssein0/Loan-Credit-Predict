@@ -28,6 +28,7 @@ A machine learning model to **predict loan credit approval** based on applicant 
 ## 🛠 Project Structure
 
 Loan-Credit-Predict/
+
 ├── images/
 
 ├── loan.csv/
