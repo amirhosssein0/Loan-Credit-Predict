@@ -28,11 +28,14 @@ A machine learning model to **predict loan credit approval** based on applicant 
 ## 🛠 Project Structure
 
 Loan-Credit-Predict/
-├── assets/ # Images, charts, and graphics
-├── data/ # Input datasets
-├── models/ # Trained models
+├── images/
+
+├── loan.csv/
+
 ├── main.py # Main prediction script
+
 ├── requirements.txt # Required libraries
+
 └── README.md # This file
 
 ---
