@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/header_image.png" alt="Loan Credit Predict" width="800"/>
-  <h1 align="center">Loan Credit Prediction 🎯</h1>
-</p>
-
 ---
 
 ## 📌 Overview
@@ -20,14 +15,13 @@ A machine learning model to **predict loan credit approval** based on applicant 
 
 ## 🧩 Project Screenshots
 
-### 1. Data Loading & Preparation  
-![Input Data](assets/input_data.png)
+![Screenshot](images/1.png)
 
-### 2. Exploratory Data Analysis  
-![Data Exploration](assets/data_analysis.png)
+![Screenshot](images/2.png)
 
-### 3. Prediction Output  
-![Model Output](assets/model_prediction.png)
+![Screenshot](images/3.png)
+
+![Screenshot](images/4.png)
 
 ---
 
