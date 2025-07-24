@@ -35,7 +35,6 @@ Loan-Credit-Predict/
 ├── requirements.txt # Required libraries
 └── README.md # This file
 
-
 ---
 
 ## ▶️ How to Run
